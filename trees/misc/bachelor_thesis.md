@@ -1,7 +1,7 @@
 ---
 title: Rigid pseudoeffective classes on compact Kähler surfaces
-file: [Thesis(in Chinese)](/assets/bachelor_thesis/thesis_submited(chn).pdf)
-slides: [Slides(in Chinese)](/assets/bachelor_thesis/slide_junyu(chn).pdf)
+file: [Thesis(in Chinese)](https://junyucao1024.github.io/assets/bachelor_thesis/thesis_submited(chn).pdf)
+slides: [Slides(in Chinese)](https://junyucao1024.github.io/assets/bachelor_thesis/slide_junyu(chn).pdf)
 taxon: Bachelor Thesis
 ---
 
