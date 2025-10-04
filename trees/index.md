@@ -17,13 +17,8 @@ where my thesis advisor is
 
 I am working on complex geometry under the supervision of [Valentino Tosatti](https://cims.nyu.edu/~vt2234/).
 
+[](pubs/index.md#:embed)
+
+[-](misc/index.md#:embed)
 
 
-## Publications/Preprints
-- (with [Valentino Tosatti](https://cims.nyu.edu/~vt2234/)) Regularity of the volume function 
-> ArXiv link: [arXiv:2505.14495](https://arxiv.org/abs/2505.14495)
-
-## Notes/Misc
-- Todo
-<!-- 
-[+-](/pubs/index.md#:embed) -->
