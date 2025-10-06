@@ -5,7 +5,7 @@ base-url = "/"
 
 [build]
 typst-root = "./"
-short-slug = false
+short-slug = true
 pretty-urls = false
 footer-mode = "link"
 inline-css = false
