@@ -1,5 +1,5 @@
 ---
-title: Note_2
+title: Note_2 $O(n^2)$ $C^{2, \alpha}$
 taxon: Note
 ---
 
