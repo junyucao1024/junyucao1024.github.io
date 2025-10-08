@@ -7,6 +7,10 @@ nav#toc {
   overflow-y: auto;  
 }  
 
+.link.asset::before {
+  content: "";
+}
+
 /* asset/.pdf file icon */
 .link.asset a[href$=".pdf"]::before {
   content: "🗎 ";
