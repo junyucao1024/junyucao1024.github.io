@@ -8,14 +8,19 @@
     window.location.href = '/index.html';  
   }  
 </script><link rel="stylesheet" href="/main.css">
-<link rel="stylesheet" href="/typst.css"><!-- make table of contents sticky -->
-<style>  
+<link rel="stylesheet" href="/typst.css"><style>  
+/* make table of contents sticky */
 nav#toc {  
   position: sticky;  
   top: 2em;  
   max-height: calc(100vh - 4em);  
   overflow-y: auto;  
 }  
+
+/* asset/.pdf file icon */
+.link.asset a[href$=".pdf"]::before {
+  content: "🗎 ";
+}
 </style><!-- https://github.com/kokic/kokic.github.io/blob/master/import-fonts.html -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="true">
