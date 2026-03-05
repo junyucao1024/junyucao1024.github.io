@@ -7,8 +7,8 @@ base-url = "/"
 placement = "right"
 sticky = true
 mobile-sticky = true
-max-width = "max-content"
-# max-width = "45ex"
+# max-width = "max-content"
+max-width = "50ex"
 
 
 [build]
