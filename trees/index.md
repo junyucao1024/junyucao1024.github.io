@@ -7,7 +7,7 @@ address: New York University
 email: [junyu.cao@nyu.edu](mailto:junyu.cao@nyu.edu)
 collect: true 
 ---
-My name is Junyu CAO (曹 君宇). I am currently a PhD student in 
+My name is Junyu Cao (曹 君宇). I am currently a PhD student in 
 [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/), 
 starting from 2024 Fall. I graduated from 
 [Tsinghua University](https://www.tsinghua.edu.cn/) with a BS in math, 
