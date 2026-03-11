@@ -3,3 +3,4 @@ title: The Archimedean height pairing for differential forms on degeneration of 
 arxiv: [arXiv:2603.04802](https://arxiv.org/abs/2603.04802)
 taxon: Paper
 ---
+Submitted ([updated version](https://junyucao1024.github.io/assets/papers/2026_height_submitted_ver.pdf)).
