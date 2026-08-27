@@ -29,7 +29,7 @@ If you are using Windows, I would suggest installing `wsl` (Windows Subsystem fo
 
    **Remark.** WSL installs Ubuntu by default, so ask Codex to adapt any macOS or Arch Linux commands in the linked guide to Ubuntu. The Rethlas runner also gives Codex broad permissions inside WSL, so use it only in an environment you trust.
 
-4. **Optional but highly recommended: install Visual Studio Code.** Download and install Visual Studio Code on Windows from its [official website](https://code.visualstudio.com/). Also install the [WSL extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl). Then, from the Rethlas folder in your WSL terminal, type `code .` to open the project.
+4. **Optional but highly recommended: install Visual Studio Code.** Download and install Visual Studio Code on Windows from its [official website](https://code.visualstudio.com/). Also install the [WSL extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl). Then, from the Rethlas folder in your WSL terminal, type `code .` to open the project. This will provide a simple graphical user interface (GUI) for editing files and using the terminal in WSL.
 
 Further reading:
 
