@@ -4,7 +4,7 @@ assets = "assets"
 base-url = "/"
 
 [toc]
-placement = "right"
+placement = "left"
 sticky = true
 mobile-sticky = true
 # max-width = "max-content"
