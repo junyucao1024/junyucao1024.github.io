@@ -2,6 +2,8 @@
 trees = "trees"
 assets = "assets"
 base-url = "/"
+themes = [] # Paths to custom theme files
+theme-lock = false # Hide the theme selector when true
 
 [toc]
 placement = "left"
@@ -10,17 +12,37 @@ mobile-sticky = true
 # max-width = "max-content"
 max-width = "50ex"
 
+[text]
+edit = "[edit]"
+toc = "Table of Contents"
+references = "References"
+backlinks = "Backlinks"
+
 
 [build]
 typst-root = "trees"
 short-slug = true
 pretty-urls = false
 footer-mode = "link"
+footer-sort-by = "slug" # Metadata key for sorting references/backlinks
 inline-css = true
+inline-script = false # Embed JavaScript into each generated page
+allow-unsafe-html = false # Allow raw HTML in Markdown when true
+elaborate-cjk-text = true # Add language spans around CJK text
 asref = false
 output = "./publish"
+# Optional edit links on published pages (disabled unless uncommented):
+# edit = "https://github.com/junyucao1024/junyucao1024.github.io/edit/main/trees/"
 
 [serve]
 edit = "vscode://file/"
 output = "./.cache/publish"
 command = ["miniserve", "<output>", "--index", "index.html", "--pretty-urls", "--port", "8080"]
+
+[publish]
+rss = false # Requires an absolute base-url when enabled
+
+[suffix]
+markdown = "md"
+typst = "typst"
+typst-lib = "typ" # Must differ from the page extensions above
