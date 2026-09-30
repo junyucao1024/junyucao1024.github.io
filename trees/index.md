@@ -15,7 +15,7 @@ where my thesis advisor is
 [Jian Xiao](https://sites.google.com/view/jianxiao/home).
 
 
-I am working on complex geometry and dynamical systems
+I am working on dynamical systems and complex geometry
 under the supervision of [Valentino Tosatti](https://cims.nyu.edu/~vt2234/).
 
 [](pubs/index.md#:embed)
